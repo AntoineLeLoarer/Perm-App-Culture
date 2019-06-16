@@ -1,0 +1,43 @@
+Refinamiento	de	Requerimientos	
+Definición	de	Requerimientos	de	Usuario y	
+Sistema,	Distinción	adecuada	de	tipos	de	
+requerimientos,	Requerimientos	
+Funcionales	y	No	Funcionales (Usabilidad).	
+Se	presenta	de	forma	clara	la	relación	
+entre	requerimientos	funcionales	y	no	
+funcionales	(usabilidad).	Se	especificaron	
+casos	de	uso que	incluyen	rutas	
+alternativas.	Se	identifican	de	forma	clara	
+las	tareas	del	sistema y	se	establece	una	
+jerarquía.
+Prototipos.	Se	presentan	prototipos	de	
+baja/mediana/alta	fidelidad.	Se	siguen	
+guías	de	diseño	en	la	construcción.	Se	
+define	un	estándar	para	el	diseño	de	las	
+interfaces.	Hay	evidencia	del	cambio	entre	
+las	versiones	de	los	prototipos.	Se	
+identifican	las	interacciones	claves	y	
+forman	parte	del	diseño. Se	presenta	de	
+forma	clara	el	diseño	del	sistema,	
+interacciones	y	organización	de	
+información	de	información	en	las	
+interfaces.
+Métodos	de	Inspección.	Se	hizo	uso	
+adecuado	de	los	métodos	de	inspección.	Se	
+seleccionaron	los	métodos	de	acuerdo	al	
+propósito,	se	presentan	resultados y	cómo	
+fueron	utilizados. Evidencia	del	uso de	una	
+herramienta	para	probar	el	método	
+seleccionado.
+Presentación	inicial	de	pruebas	de	
+usabilidad.	Se	definen	objetivos	claros	
+basados	en	los	requerimientos de	
+usabilidad.	Se	seleccionan	de	forma	
+adecuada	las	medidas	de	usabilidad.	Se	
+determinan	los	grados	“aceptable”	y	
+“satisfactorio”	para	las	medidas	de	
+usabilidad.	El	diseño	de	la	prueba	es	
+adecuado.	Se	establece	de	forma	clara	el	
+protocolo	para	la	prueba.	Se	presenta	el	
+diseño	completo	de	una	prueba	de	
+usabilidad
